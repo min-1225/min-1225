@@ -1,37 +1,38 @@
-# 이상민 LeeSangMin
+# 이상민 Lee Sang-min
 
-AI 기반 문제 해결을 목표로, 알고리즘·데이터 처리·웹 MVP 구현을 함께 학습하고 있습니다.
+백엔드 API 설계와 프런트엔드 연동을 중심으로, AI 아이디어를 실제로 검증할 수 있는 웹 MVP로 구현하고 있습니다.
 
-웹 프로젝트는 AI 아이디어를 실제 사용자가 눌러볼 수 있는 MVP로 검증하기 위한 학습 과정의 산출물입니다.
+민감정보를 다루는 AI 서비스에서는 기능 구현뿐 아니라 데이터가 어디에서 처리되고 어떤 형태로 이동하는지까지 설계하는 것을 중요하게 생각합니다.
 
 ## Focus
 
+- Backend API Design & Frontend Integration
 - AI Application Development
-- Algorithm & Problem Solving
-- Data Processing
+- Privacy-Preserving Data Processing
 - Service Prototyping
-- React / Next.js for MVP 구현
+- Algorithm & Problem Solving
 
 ## Tech Stack
 
-- AI/Study: Algorithm, Data Processing, Problem Solving
-- Frontend for MVP: React, Next.js, JavaScript
+- Backend/API: REST API, JSON Contract, LLM Integration
+- Browser AI: Transformers.js, Web Worker, Web Audio API
+- Frontend: JavaScript, React, Next.js
 - Styling: Tailwind CSS, CSS
-- Backend/DB: Supabase
-- Language: Java, JavaScript
+- Data/Platform: IndexedDB, Supabase
+- Language: Java, JavaScript, TypeScript
 - Tools: Git, GitHub, Vercel
 
 ## Featured Projects
 
-| Project | Description | Link |
+| Project | Description | Role / Link |
 | --- | --- | --- |
-| Shot Up 카페 키오스크 | 터치스크린 카페 키오스크 UI 프로젝트 | [Detail](./shot-up-kiosk) / [Demo](https://kiosk-bice-ten.vercel.app/) |
+| VeilNote | 원문을 기기에서 비식별화한 뒤 토큰만 AI에 전달하는 회의록·업무 실행 에이전트 | Backend & Frontend Integration · [Detail](./veilnote) |
+| Shot Up 카페 키오스크 | 터치스크린 카페 키오스크의 전체 주문 흐름을 구현한 UI 프로젝트 | [Detail](./shot-up-kiosk) / [Demo](https://kiosk-bice-ten.vercel.app/) |
 | 커플 가계부 | 함께 지출을 기록하고 소비 패턴을 확인하는 가계부 웹앱 | [Detail](./couple-budget) / [Repo](https://github.com/min-1225/budget-web) |
 | Algorithm Study | Java 코딩테스트 문제 풀이 기록 | [Repo](https://github.com/min-1225/algorithm-study) |
 
-## Current Status
+## Current Focus
 
+- 백엔드 API의 요청·응답 계약과 오류 처리 기준을 먼저 정의하고 프런트엔드와 연결하는 연습을 하고 있습니다.
+- 브라우저 로컬 처리와 서버 처리를 분리해 민감정보의 이동 범위를 줄이는 AI 서비스 구조를 학습하고 있습니다.
 - Java 알고리즘 문제 해결 과정을 꾸준히 기록하고 있습니다.
-- 데이터 흐름과 서비스 구조를 이해하기 위해 Next.js와 Supabase 기반 웹앱을 구현해보고 있습니다.
-- 해커톤/공모전 아이디어를 검증 가능한 MVP로 만드는 경험을 쌓고 있습니다.
-
