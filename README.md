@@ -33,7 +33,6 @@ AI 기반 문제 해결을 목표로, 알고리즘·데이터 처리·웹 MVP �
 | VeilNote · CodeGate 2026 | 브라우저 내 비식별화와 Express·Claude를 연결한 AI 회의록·업무 실행 에이전트 | [Portfolio](https://github.com/min-1225/Hackathon-CodeGate-2026) / [Team Repo](https://github.com/TRACEGATE/hackathon_2026) |
 | Shot Up 카페 키오스크 | 터치스크린 카페 키오스크 UI 프로젝트 | [Detail](./shot-up-kiosk) / [Demo](https://kiosk-bice-ten.vercel.app/) |
 | 커플 가계부 | 함께 지출을 기록하고 소비 패턴을 확인하는 가계부 웹앱 | [Detail](./couple-budget) / [Repo](https://github.com/min-1225/budget-web) |
-| Algorithm Study | Java 코딩테스트 문제 풀이 기록 | [Repo](https://github.com/min-1225/algorithm-study) |
 
 ## Current Status
 
